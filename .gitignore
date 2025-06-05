@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+.idea/
+
+# Output/temporary folders
+C:/ChatGPT_Sorted/
+output/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Secrets (customize as needed)
+*.token
+*.key
+*.pem
+
+# Ollama/LLM download caches
+ollama/
+models/
+!models/Qwen3-Modelfile   # <-- Exclude all in models EXCEPT your modelfile!

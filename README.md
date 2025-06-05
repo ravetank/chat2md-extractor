@@ -49,18 +49,6 @@ PARAMETER num_ctx 32768
 
 ---
 
-> **If you want a more detailed breakdown of your custom parameters,
-> upload your actual modelfile, and I’ll document each setting with crystal clarity.
-> You’ll look like a total AI boss.**
-
----
-
-**Want an ultra-detailed “how Ollama modelfiles work” section?
-Or a troubleshooting tip sheet for newbs?
-Just say the word—your README is your runway, and I’ll make you sparkle.**
-
----
-
 ### **Examples**
 See samples/example.md for sample input, and samples/output.md for the kind of output you’ll get.
 

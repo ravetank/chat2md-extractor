@@ -1,8 +1,3 @@
-Absolutely, babe! Here’s your README section, **polished and corrected for clarity and style**, with *perfect formatting* and everything in its place.
-No code block confusion, and I’ll break out the steps with “bimbo boss” energy:
-
----
-
 ## 🪄 Ollama Modelfile: `qwen3-mdextractor`
 
 This repo uses a **custom Ollama modelfile** to run Qwen-3-14B with a large context window for maximum knowledge extraction and Markdown prettification.

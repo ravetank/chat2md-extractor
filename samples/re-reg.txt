@@ -1,0 +1,44 @@
+regsvr32 /s msxml3.dll
+
+regsvr32 /s msxml6.dll
+
+regsvr32 /s jscript.dll
+
+regsvr32 /s vbscript.dll
+
+regsvr32 /s wshom.ocx
+
+regsvr32 /s scrrun.dll  
+
+regsvr32 /s oleaut32.dll 
+
+regsvr32 /s ole32.dll   
+
+regsvr32 /s actxprxy.dll
+
+regsvr32 /s urlmon.dll  
+
+regsvr32 /s msi.dll    
+
+regsvr32 /s msiexec.exe /regserver
+
+regsvr32 /s appxdeploymentserver.dll 
+
+regsvr32 /s appxpackaging.dll 
+
+regsvr32 /s windows.storage.dll 
+
+regsvr32 /s shell32.dll
+
+regsvr32 /s shdocvw.dll 
+
+regsvr32 /s browseui.dll
+
+regsvr32 /s cryptdlg.dll 
+
+
+regsvr32 /s mscoree.dll 
+
+regsvr32 /s mscoreei.dll 
+
+regsvr32 /s comctl32.dll 
